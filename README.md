@@ -1,0 +1,2 @@
+# myindepenctesapp
+newproject

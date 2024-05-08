@@ -1,0 +1,26 @@
+body{
+    background-image:url(cartoon-KITCHE.jpg); 
+    background-size: 100vw 100vh;
+}
+
+img{
+
+  width:  500px;
+  height: 500px;
+  position: static;
+  margin-left: 300px;
+
+}
+
+button{
+  background: transparent;
+  border: 0px;
+}
+
+#pizzasauce{
+ margin:0px;
+    width:150px;
+    height:150px;
+   
+
+}
